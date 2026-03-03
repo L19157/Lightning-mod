@@ -1,0 +1,6 @@
+scratch-platform/
+│
+├── package.json
+├── public/
+│
+└── src/
