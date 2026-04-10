@@ -1,0 +1,6 @@
+src/
+  firebase.js
+  App.js
+  index.js
+  pages/Home.js
+  layout/Mainlayout.js
